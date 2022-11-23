@@ -1,0 +1,22 @@
+/* Write your CSS here */
+
+.tab-name-container {
+  padding-top: 10px;
+  list-style-type: none;
+}
+
+.button {
+  font-size: 15px;
+  color: #7b8794;
+  border-top: 0px;
+  border-left: 0px;
+  border-right: 0px;
+  border-bottom: 1px solid #7b8794;
+  background-color: transparent;
+  height: 36px;
+  width: 78px;
+}
+.active-btn {
+  color: #2563eb;
+  border-color: #2563eb;
+}
